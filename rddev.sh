@@ -1,0 +1,1 @@
+fis3 release rddev -wd ../../../../../public/emadms/static/ad

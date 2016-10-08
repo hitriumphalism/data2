@@ -1,0 +1,37 @@
+fl1_2_55({
+    "zid": "1-2-32",
+    "adtpl":"<a href='<%=clickurl%>' target=<%=target==1?'_blank':'_self'%>><img src='<%=content%>'></a>",
+    "default":{
+            "data":{
+                "aid":"0",
+                "content":"c2.png",
+                "clickurl":"http://www.nihao.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com",
+                "target":0
+            },
+            "ifshowdefault":1
+        },
+     "city":{
+        "3-4-5":{
+            "data":{
+                "aid":"666",
+                "content":"c0.png",
+                "clickurl":"http://www.baidu.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com",
+                "target":1,
+            }
+        },
+        "2":{
+            "data":{
+                "aid":"999",
+                "content":"http://www.emao.com/abc.jpg",
+                "clickurl":"http://www.baidu.com",
+                "impurl3":"http://www.nihao.com",
+                "impurl":"http://www.qq.com",
+                "target":0
+            }
+        }
+    }
+})
